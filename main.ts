@@ -1,4 +1,5 @@
-import { TwitchChat, getToken } from "./deps.ts";
+import { TwitchChat } from "tmi/mod.ts";
+import { getToken } from "denobot/mod.ts";
 import { logger } from "./logger.ts";
 
 const log = logger({ name: "Event: Ready" });

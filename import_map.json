@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "tmi/": "https://deno.land/x/tmi/",
+    "denobot/": "https://deno.land/x/denobot/",
+    "colors": "https://deno.land/std/fmt/colors.ts"
+  }
+}
