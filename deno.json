@@ -1,6 +1,6 @@
 {
   "tasks": {
-    "run": "deno run --allow-all main.ts"
+    "run": "deno run --allow-all ./src/main.ts"
   },
   "importMap": "./import_map.json"
 }
